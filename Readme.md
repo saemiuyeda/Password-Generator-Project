@@ -1,0 +1,3 @@
+Password Generator Project
+
+Este projeto foi desenvolvido com o objetivo de gerar senhas seguras e personalizadas. O sistema permite aque o usuário defina a quantidade de letras, símbolos e algarismos que deseja incluir, garantindo maior controle sobre a complexidade da senha gerada. Com isso, implementa uma lógica de aleatoriedade para criar combinações únicas, introduzindo conceitos de segurança da informação e manipulação de strings.
